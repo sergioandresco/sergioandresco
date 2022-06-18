@@ -1,5 +1,18 @@
 ### Hi👋, I'm Sergio 👨‍💻
 
+```js
+const sergioandresco = {
+
+    technologies: |'Web', 'Data Bases'|, 
+    passions: |'Design and create data bases', 'Web development', 'Gaming'|
+
+}
+```
+You can find me 🌎:
+- [LinkedIn](https://www.linkedin.com/in/sergio-andres-cobos-suarez-942637219/)
+- [Instagram](https://www.instagram.com/sergioandresco)
+
+
 <!--
 **sergioandresco/sergioandresco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
