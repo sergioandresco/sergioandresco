@@ -20,8 +20,16 @@ const sergioandresco = {
 
 
 You can find me 🌎:
-- [LinkedIn](https://www.linkedin.com/in/sergio-andres-cobos-suarez-942637219/)
-- [Instagram](https://www.instagram.com/sergioandresco)
+- <a href="https://www.linkedin.com/in/sergio-andres-cobos-suarez-942637219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sergio" height="30" width="40" /></a>
+- <a href="https://instagram.com/sergioandresco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sergio" height="30" width="40" /></a>
+
+<div align="center">
+<sup >You are visitor number:</sup>
+    
+<a href="https://smallcounter.com"><img src="https://smallcounter.com/count.php?c_style=13&id=1655585730" border=0 alt="web counter"></a><br><a href="https://smallcounter.com" style="font-size:9px;"><br>
+
+    
+</div>
 
 
 <!--
