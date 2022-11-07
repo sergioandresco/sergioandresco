@@ -9,7 +9,7 @@ const sergioandresco = {
 
     technologies: |'Web', 'Data Bases'| 
     passions: |'Design and create data bases', 'Web development', 'Gaming'|
-    favorite_programming_languagess: |'PHP', 'SQL'|
+    programming_languagess: |'PHP', 'JS', 'PYTHON', 'SQL'|
 
 }
 ```
