@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋, I'm Sergio 👨‍💻</h1>
-<h2 align="center">A Database Designer & Builder, Web Developer from Colombia</h2>
-<h3>I'm a systems engineering student, I'm from Colombia, I like everything related to DB and web development. I'm noob in development.</h3>
+<h2 align="center">Full Stack Web Developer from Colombia</h2>
+<h3>I'm a systems engineer, I'm from Colombia, I like everything related to web development.</h3>
 
 
 ```js
