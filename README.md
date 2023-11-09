@@ -7,8 +7,10 @@
 const sergioandresco = {
 
     technologies: |'Web', 'Data Bases'| 
-    passions: |'Design and create data bases', 'Web development', 'Gaming'|
-    programming_languagess: |'PHP', 'JS', 'PYTHON', 'SQL'|
+    passions: |'Web development', 'Gaming', 'Play Soccer', 'Music'|
+    programming_languagess: |'PHP', 'JS', 'PYTHON', 'SQL', 'CSS'|
+    frameworks: |'NextJS', 'Django', 'React', 'Angular'|
+    SO: |'Windows', 'Ubuntu', 'Ubuntu Server', 'MacOS'|
 
 }
 ```
