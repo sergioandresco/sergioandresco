@@ -6,9 +6,9 @@
 ```js
 const sergioandresco = {
 
-    technologies: |'Web', 'Data Bases'| 
-    passions: |'Web development', 'Gaming', 'Play Soccer', 'Music'|
-    programming_languagess: |'PHP', 'JS', 'PYTHON', 'SQL', 'CSS'|
+    technologies: |'Web', 'Data Bases', 'Vercel'| 
+    passions: |'Web development Frontend', 'Gaming', 'Play Soccer', 'Music'|
+    programming_languagess: |'JS', 'PYTHON', 'SQL', 'CSS'|
     frameworks: |'NextJS', 'Django', 'React', 'Angular'|
     SO: |'Windows', 'Ubuntu', 'Ubuntu Server', 'MacOS'|
 
@@ -16,12 +16,12 @@ const sergioandresco = {
 ```
 
 About me:
-- 🔭 I’m currently working on **I am currently working in a bank in Colombia, in the part of the architecture and gobernament of security of the information.**
-- 🌱 I’m currently learning **I'm currently learning design and science of data bases, and web development with  php, javascript, and framework laravel.**
-- 🤔 I’m looking for help with **Looking for help with new job opportunities, focused in data bases and web development.**
-- 💬 Ask me about **Ask me about games, data bases and a little bit web development.**  
+- 🔭 I’m currently working on **I'm currently working as a Full Stack Developer with main focus on Frontend.**
+- 🌱 I’m currently learning **I'm currently specializing in Frontend development with React and user experience.**
+- 🤔 I’m looking for help with **I'm looking for help with new job opportunities, focused on frontend web development.**
+- 💬 Ask me about **Ask me about web development, games, databases and music.**  
 - 📫 How to reach me: **sergiocobos6@outlook.com**
-- ⚡ Fun fact: **I am very good with data bases.**
+- ⚡ Fun fact: **I'm very good with frontend design and development.**
 
 
 You can find me 🌎:
