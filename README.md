@@ -1,25 +1,25 @@
 <h1 align="center">Hello👋, I'm Sergio 👨‍💻</h1>
-<h2 align="center">Full Stack Web Developer from Colombia</h2>
+<h2 align="center">Frontend Developer from Colombia</h2>
 <h3>I'm a systems engineer, I'm from Colombia, I like everything related to web development.</h3>
 
 
 ```js
 const sergioandresco = {
 
-    technologies: |'Web', 'Data Bases', 'Vercel'| 
+    technologies: |'Web', 'Data Bases', 'Vercel', 'Expo for mobile development'| 
     passions: |'Web development Frontend', 'Gaming', 'Play Soccer', 'Music'|
-    programming_languagess: |'JS', 'PYTHON', 'SQL', 'CSS'|
-    frameworks: |'NextJS', 'Django', 'React', 'Angular'|
+    programming_languagess: |'JS', 'JSX', 'PYTHON', 'SQL', 'CSS', 'Sass'|
+    frameworks: |'Vite', 'Django', 'NextJS', 'Expo'|
     SO: |'Windows', 'Ubuntu', 'Ubuntu Server', 'MacOS'|
 
 }
 ```
 
 About me:
-- 🔭 I’m currently working on **I'm currently working as a Full Stack Developer with main focus on Frontend.**
-- 🌱 I’m currently learning **I'm currently specializing in Frontend development with React and user experience.**
+- 🔭 I’m currently working on **I'm currently working as a Frontend Developer.**
+- 🌱 I’m currently learning **I'm currently specializing in Frontend development with React and UI/UX.**
 - 🤔 I’m looking for help with **I'm looking for help with new job opportunities, focused on frontend web development.**
-- 💬 Ask me about **Ask me about web development, games, databases and music.**  
+- 💬 Ask me about **Ask me about web development and mobile development, games and music.**  
 - 📫 How to reach me: **sergiocobos6@outlook.com**
 - ⚡ Fun fact: **I'm very good with frontend design and development.**
 
