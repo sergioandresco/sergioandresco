@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋, I'm Sergio 👨‍💻</h1>
 <h2 align="center">Frontend Developer from Colombia</h2>
-<h3>I'm a systems engineer, I'm from Colombia, I like everything related to web development.</h3>
+<h3>I'm a systems engineer, I'm from Colombia, I like everything related to web development. I love React</h3>
 
 
 ```js
@@ -9,7 +9,7 @@ const sergioandresco = {
     technologies: |'Web', 'Data Bases', 'Vercel', 'Expo for mobile development'| 
     passions: |'Web development Frontend', 'Gaming', 'Play Soccer', 'Music'|
     programming_languagess: |'JS', 'JSX', 'PYTHON', 'SQL', 'CSS', 'Sass'|
-    frameworks: |'Vite', 'Django', 'NextJS', 'Expo'|
+    frameworks: |'React', 'Django', 'NextJS', 'Expo'|
     SO: |'Windows', 'Ubuntu', 'Ubuntu Server', 'MacOS'|
 
 }
