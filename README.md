@@ -8,15 +8,15 @@ const sergioandresco = {
 
     technologies: |'Web', 'Data Bases', 'Vercel', 'Expo for mobile development'| 
     passions: |'Web development Frontend', 'Gaming', 'Play Soccer', 'Music'|
-    programming_languagess: |'JS', 'JSX', 'PYTHON', 'SQL', 'CSS', 'Sass'|
-    frameworks: |'React', 'Django', 'NextJS', 'Expo'|
+    programming_languagess: |'JS', 'TS', 'TSX', 'JSX', 'PYTHON', 'SQL', 'CSS', 'Sass'|
+    frameworks: |'React', 'Django', 'NextJS', 'Expo' , 'Express'|
     SO: |'Windows', 'Ubuntu', 'Ubuntu Server', 'MacOS'|
 
 }
 ```
 
 About me:
-- 🔭 I’m currently working on **I'm currently working as a Frontend Developer.**
+- 🔭 I’m currently working on **I'm currently working as a Senior Frontend Developer.**
 - 🌱 I’m currently learning **I'm currently specializing in Frontend development with React and UI/UX.**
 - 🤔 I’m looking for help with **I'm looking for help with new job opportunities, focused on frontend web development.**
 - 💬 Ask me about **Ask me about web development and mobile development, games and music.**  
